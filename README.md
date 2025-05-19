@@ -1,3 +1,5 @@
+
+
 # 👋 Hi there! I'm Rachit Shahrawat
 
 ## 🚀 About Me
@@ -45,10 +47,9 @@ I'm a Full Stack Developer and B.Tech IT student, passionate about building seam
 ---
 
 ## 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-shahrawat)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-shahrawat-730327285/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rachitshahrawat@gmail.com)
 
 ---
 
 ⭐️ From [rachitshahrawat](https://github.com/rachitshahrawat)
-
